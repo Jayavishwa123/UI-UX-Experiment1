@@ -1,148 +1,84 @@
 # UI-UX-Experiment1
 
 ## Aim:
-To design and develop a Smart Diet Suggestion application that provides users with simple, quick, and personalized dietary recommendations based on their health condition, helping them make better food choices and improve overall well-being.
+To explore and understand the fundamentals of User Interface (UI) and User Experience (UX) design, differentiate between them using real-world examples, illustrate their interrelationship, and demonstrate the use of various UI/UX design tools for practical application.
+
 ## Algorithm:
-* Start the program.
 
-* Display the user interface with a dropdown menu for selecting a health condition.
+Start the experiment.
 
-* Provide options such as Fever, Diabetes, Blood Pressure, and Stomach Pain.
 
-* Wait for the user to select a condition.
+Study the Fundamentals:
 
-* When the user clicks the “Get Diet Plan” button:
 
-* Read the selected condition from the input field.
+Understand the basic concepts of UI (visual design, layout, color, typography) and UX (usability, user flow, accessibility).
 
-* Check the selected condition using conditional statements (if-else).
 
-* Based on the condition:
+Note the key differences and similarities between UI and UX.
 
-  * If Fever → Suggest light foods like soups, fruits, coconut water.
 
-  * If Diabetes → Suggest low sugar foods like vegetables and whole grains.
+Differentiate Using Case Studies:
 
-  * If Blood Pressure → Suggest low-salt foods and fruits.
 
-  * If Stomach Pain → Suggest light and non-spicy foods.
+Select two or more real-world applications (e.g., Swiggy, Amazon, Instagram).
 
-* Display the recommended foods (Eat) and restricted foods (Avoid) on the screen.
 
-* If no condition is selected, display an error message asking the user to choose a condition.
+Analyze how UI elements (colors, icons, typography) and UX elements (navigation flow, usability, feedback) differ in each case.
 
-* End the program.
+
+Record the findings in a comparison table
+
+
+Illustrate the Relationship Between UI and UX:
+
+
+Create a diagram or flowchart showing how UI and UX interact in the design process.
+
+
+Explain how both contribute to overall product success.
+
+
+Demonstrate UI/UX Design Tools:
+
+
+Open a design tool such as Figma or Adobe XD.
+
+
+Create a simple design prototype (for example, a login page, food delivery screen, or homepage layout).
+
+
+Add interactive components (buttons, text fields, navigation).
+
+
+Test the user flow and collect feedback.
+
+
+Analyze and Observe:
+
+
+Observe how the UI elements affect the UX experience.
+
+
+Modify design elements to improve usability or aesthetics.
+
+
+Conclude the experiment by summarizing:
+
+
+The key differences between UI and UX.
+
+
+The relationship between them.
+
+
+The usefulness of tools in improving design quality.
+
+
+Stop the experiment.
+
 ## Output:
-<img width="1916" height="1123" alt="Screenshot 2026-03-19 161225" src="https://github.com/user-attachments/assets/60aab59c-a1ac-4a08-8895-0626b91cdae3" />
-<img width="1919" height="1131" alt="Screenshot 2026-03-19 161248" src="https://github.com/user-attachments/assets/496727bb-731d-4bda-90af-15c74e176224" />
-<img width="1916" height="1135" alt="Screenshot 2026-03-19 161317" src="https://github.com/user-attachments/assets/484b36ad-541e-4a68-a2b7-f0118fd05a01" />
+[uiux exp1.pdf](https://github.com/user-attachments/files/25332270/uiux.exp1.pdf)
 
-# 🥗 Smart Diet Suggestion App – UX Design
 
-## 1. Solution Ideation
-
-### Problem
-Users often struggle to decide what to eat when they are sick or have specific health conditions. They lack quick, simple, and personalized diet guidance.
-
-### Ideation Method: Crazy 8s
-
-### Low-Fidelity Ideas
-
-1. Smart Diet Suggestion based on health condition  
-2. Daily Health Check (mood + energy input)  
-3. AI Chat for diet recommendations  
-4. Voice-based diet input  
-5. Hydration Reminder System  
-6. Medicine + Diet combined planner  
-7. Weekly diet planner view  
-8. Food to Eat / Avoid visual cards  
-
----
-
-## 2. User Stories
-
-1. As a user, I want to get diet suggestions based on my condition, so that I can eat properly and recover faster.  
-
-2. As a patient, I want simple food recommendations, so that I don’t get confused about what to eat.  
-
-3. As a busy person, I want quick suggestions, so that I can save time.  
-
-4. As a health-conscious user, I want to avoid harmful foods, so that I can maintain my health.  
-
-5. As a beginner, I want an easy interface, so that I can use the app without difficulty.  
-
----
-
-## 3. Scenario
-
-### Selected User Story:
-As a user, I want to get diet suggestions based on my condition, so that I can recover faster.
-
-### Scenario Description:
-Priya is a college student who is suffering from fever. She feels weak and confused about what food she should eat.
-
-She opens the Smart Diet Suggestion App on her phone while resting at home. She selects "Fever" from the list and clicks the "Get Diet Plan" button.
-
-Within seconds, the app displays foods she should eat (soups, fruits, coconut water) and foods to avoid (oily items). Priya feels relieved and confident that she is following the right diet.
-
----
-
-## 4. Flow Diagram / Task Flow
-
-### Task: Getting Diet Suggestion
-
-Start  
-↓  
-Open App  
-↓  
-Select Health Condition  
-↓  
-Click "Get Diet Plan"  
-↓  
-System Processes Input  
-↓  
-Display Diet Suggestion  
-↓  
-End  
-
----
-
-## 5. Information Architecture (IA)
-
-### Card Sorting (Open Type)
-
-Users grouped content into:
-- Home  
-- Diet Suggestions  
-- Health Tracker  
-- Reminders  
-- Profile  
-
-### Site Map
-
-Home  
-├── Diet Suggestions  
-│   ├── Select Condition  
-│   ├── View Diet Plan  
-│  
-├── Health Tracker  
-│   ├── Daily Check  
-│   ├── History  
-│  
-├── Reminders  
-│   ├── Water Reminder  
-│   ├── Medicine Reminder  
-│  
-├── Profile  
-│   ├── Personal Info  
-│   ├── Settings  
-
----
-
-## ✅ Result
-
-- Developed a user-friendly diet suggestion system  
-- Provided quick and personalized food recommendations  
-- Reduced user confusion in choosing diet during illness  
-- Improved awareness of healthy eating habits  
-
+## Result:
+The fundamentals of User Interface (UI) and User Experience (UX) design were successfully explored and understood.
